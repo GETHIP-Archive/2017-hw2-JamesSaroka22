@@ -2,7 +2,7 @@
     "firstName":"James",
     "lastName":"Saroka",
     "age":14,
-    "picture": "http://a4.files.biography.com/image/upload/c_fit,cs_srgb,dpr_1.0,h_1200,q_80,w_1200/MTIwNjA4NjMzODg2NTc0MDky.jpg"",
+    "picture": "http://a4.files.biography.com/image/upload/c_fit,cs_srgb,dpr_1.0,h_1200,q_80,w_1200/MTIwNjA4NjMzODg2NTc0MDky.jpg",
     "nickNames": [
         {"nick": "Jamie"},
         {"nick": "Roka"}
